@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css?family=Anonymous+Pro&display=swap');
+body {
+  background-color: #f1edf5;
+  font-family: "Anonymous Pro", "Courier", monospace;
+  margin-left: 48px;
+  font-size: 18px;
+  line-height: 24px;
+  width: 76%;
+  margin-top: 0px;
+}
+.ec {
+  color: #ffbb00;
+}
+
+h1 {
+  margin-left: 0;
+  margin-top: 20px;
+  font-weight: light;
+  font-size: 18px;
+  color: #000000;
+  line-height: 24px;
+  padding: 0px;
+  color: #000000;
+  width: 76%;
+}
+
+h2 {
+  font-weight: bold;
+  font-size:18px;
+  line-height: 24px;
+  padding: 0px;
+}
+
+td {
+  /*background-color: #ffffff;*/
+  padding-top: 0px;
+  margin-top: 0px;
+}
+.side {
+  width: 240px;
+  vertical-align: text-top;
+  padding-top: 0px;
+  padding-top: 0px;
+}
+
+.container {
+  padding-left: 20px;
+  padding-top: 2px;
+  
+}
+
+ol {
+  padding: 0px;
+}
+li {
+  padding-top: 0px;
+  margin-top: 0px;
+}
+
+a {
+  color: #000000;
+  text-decoration: none:
+}
+
+a:hover {
+  text-decoration: underline:
+}
+
+a:active {
+  color: #ffffff;
+  font-weight: bold;
+}
+
+a:visited {
+  color: #000000;
+  text-decoration: none:
+}
